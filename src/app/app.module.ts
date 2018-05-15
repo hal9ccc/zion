@@ -28,7 +28,7 @@ export function provideSettings(storage: Storage) {
    */
   return new Settings(storage, {
     option1: true,
-    option2: 'Ionitron J. Framework',
+    option2: 'Ionitron J. Framework 1234',
     option3: '3',
     option4: 'Hello'
   });
