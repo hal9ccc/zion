@@ -1,0 +1,8 @@
+{
+  "name": "zion",
+  "app_id": "3e791c6e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
